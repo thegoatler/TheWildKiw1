@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheWildKiw1
-- 👀 I’m interested in Minecraft.
+- 👋 Hi, I’m @thegoatler
+- 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning how to program.
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 You cannot reach me atm.
