@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thegoatler
 - 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning how to program.
-- 💞️ I’m looking to collaborate on nothing atm.
+- 💞️ I’m looking to collaborate on Supermarket Together mods but I'm very new.
 - 📫 You cannot reach me atm.
 
 <!---
